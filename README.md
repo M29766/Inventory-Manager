@@ -7,7 +7,7 @@ A simple but robust desktop application built with Java Swing to manage retail i
 This system addresses the challenges of manual inventory tracking, which is often prone to errors, delays, and can lead to revenue loss. It provides a digital, efficient, and user-friendly solution to manage products and stock levels accurately.
 
 ## 📸 Screenshot
-C:\Users\Manas\Pictures\Screenshots\Screenshot 2025-12-11 232528.png
+"C:\Users\Manas\Desktop\Inventory Project\Screenshot 2025-12-11 232528.png"
 
 ## ✨ Features
 
