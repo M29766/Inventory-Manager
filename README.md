@@ -8,8 +8,7 @@ This system addresses the challenges of manual inventory tracking, which is ofte
 
 ## 📸 Screenshot
 
-![Application Screenshot](path/to/your/screenshot.png)
-*(**Note**: Take a screenshot of your running application and place it in your project folder. Replace `path/to/your/screenshot.png` with the actual filename, e.g., `app-screenshot.png`)*
+
 
 ## ✨ Features
 
